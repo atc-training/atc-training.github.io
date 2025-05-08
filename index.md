@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 # Support for ATC Training: Pilot Communications
 
 For help, questions, or feedback, please contact us at: justinzzjones@gmail.com
